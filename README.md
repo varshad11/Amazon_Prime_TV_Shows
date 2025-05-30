@@ -1,1 +1,2 @@
 # Amazon_Prime_TV_Shows
+The dataset analyzed consists of metadata related to film and television content, covering aspects such as titles, genres, release years, IMDb scores, runtime durations, and key contributors like cast and crew. The primary goal of the analysis was to explore patterns in content type, audience ratings, production trends, and creator involvement to derive meaningful insights that can inform business and creative strategies, especially for streaming platforms.
